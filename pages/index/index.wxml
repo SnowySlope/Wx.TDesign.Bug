@@ -1,0 +1,3 @@
+<view class="wrapper">
+  <t-upload media-type="{{['image']}}" files="{{originFiles}}" gridConfig="{{gridConfig}}" />
+</view>
